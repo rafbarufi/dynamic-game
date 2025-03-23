@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>O Portal dos Guardiões</title>
+    <link rel="stylesheet" href="entrada.css" />
+  </head>
+  <body>
+    <div id="container">
+      <h1>O Portal dos Guardiões</h1>
+      <p id="question">Carregando pergunta...</p>
+      <input
+        type="text"
+        id="answer"
+        placeholder="Digite sua resposta"
+        autocomplete="off"
+        autocorrect="off"
+        autocapitalize="off"
+        spellcheck="false"
+      />
+      <button onclick="validateAnswer()">Responder</button>
+      <p id="feedback"></p>
+    </div>
+    <script src="entrada.js"></script>
+  </body>
+</html>

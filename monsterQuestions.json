@@ -1,0 +1,76 @@
+{
+  "monstros": [
+    {
+      "monstro": "m1",
+      "pergunta": "No React, qual hook é utilizado para armazenar estado dentro de um componente funcional?",
+      "resposta": "useState",
+      "errorPenalty": 1,
+      "x": 272,
+      "y": 496
+    },
+    {
+      "monstro": "m2",
+      "pergunta": "No Node.js, qual objeto global é utilizado para lidar com arquivos no sistema de arquivos?",
+      "resposta": "fs",
+      "errorPenalty": 1,
+      "x": 240,
+      "y": 368
+    },
+    {
+      "monstro": "m3",
+      "pergunta": "No Power BI, qual função DAX é usada para calcular o valor acumulado ao longo do tempo?",
+      "resposta": "TOTALYTD",
+      "errorPenalty": 1,
+      "x": 528,
+      "y": 272
+    },
+    {
+      "monstro": "m4",
+      "pergunta": "No Excel VBA, qual objeto é usado para referenciar uma célula específica em uma planilha?",
+      "resposta": "Range",
+      "errorPenalty": 1,
+      "x": 560,
+      "y": 512
+    },
+    {
+      "monstro": "m5",
+      "pergunta": "No Scrum, qual é a cerimônia onde o time inspeciona e adapta seu processo ao final de um Sprint?",
+      "resposta": "Retrospectiva",
+      "errorPenalty": 1,
+      "x": 688,
+      "y": 288
+    },
+    {
+      "monstro": "m6",
+      "pergunta": "Qual é o nome do documento que contém os valores e princípios da agilidade?",
+      "resposta": "manifesto",
+      "errorPenalty": 1,
+      "x": 544,
+      "y": 80
+    },
+    {
+      "monstro": "m7",
+      "pergunta": "Qual protocolo a API do SharePoint usa para comunicação com aplicações externas?",
+      "resposta": "REST",
+      "errorPenalty": 1,
+      "x": 112,
+      "y": 192
+    },
+    {
+      "monstro": "m8",
+      "pergunta": "Qual funcionalidade do Power BI permite salvar estados específicos de um relatório para facilitar a navegação?",
+      "resposta": "Bookmark",
+      "errorPenalty": 1,
+      "x": 112,
+      "y": 80
+    },
+    {
+      "monstro": "m9",
+      "pergunta": "Qual é o padrão arquitetural que divide aplicações em pequenos serviços independentes?",
+      "resposta": "microserviço",
+      "errorPenalty": 1,
+      "x": 160,
+      "y": 32
+    }
+  ]
+}

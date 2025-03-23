@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap");
+
+body {
+  font-family: "MedievalSharp", cursive;
+  background-color: #1a1a1a;
+  color: #f4ecd8;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#container {
+  background: linear-gradient(145deg, #4e342e, #3e2723);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.2);
+  max-width: 500px;
+  width: 90%;
+  text-align: center;
+  border: 3px solid #8b5e3c;
+}
+
+h1 {
+  font-size: 28px;
+  color: #ffcc66;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+p {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #f8e5c0;
+}
+
+input {
+  width: 80%;
+  padding: 12px;
+  font-size: 18px;
+  border-radius: 8px;
+  border: 2px solid #8b5e3c;
+  background-color: #3e2723;
+  color: #f8e5c0;
+  text-align: center;
+  outline: none;
+}
+
+input::placeholder {
+  color: #bdb5a5;
+}
+
+button {
+  background: #8b5e3c;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background 0.3s;
+  margin-top: 15px;
+}
+
+button:hover {
+  background: #6f4429;
+}
+
+#feedback {
+  margin-top: 15px;
+  font-size: 18px;
+  font-weight: bold;
+}

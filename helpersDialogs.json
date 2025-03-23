@@ -1,0 +1,16 @@
+{
+  "helpers": [
+    {
+      "helper": "h1",
+      "mensagem": "Você está próximo da saída da caverna que o leva para o vilarejo OBUC, porém dois outros caminhos estão imbuídos com magia levando a um caminho sem saída. Dos três caminhos, eu ouvi diálogos distintos.\n\nVindo de baixo, um aldeão falava ao outro sobre precisar de um ferreiro, e que quanto mais rápido consertar melhor.\n\nVindo de cima, Um rapaz admitiu que deixou o portão do curral aberto, mesmo podendo ter ficado quieto, porque não seria certo, e se prontificou a encontrar a cabra e compensar o prejuízo.\n\nVindo da esquerda era falado sobre a importância de receber o dinheiro da mercadoria vendida, que deveria ser pago imediatamente.",
+      "x": 30,
+      "y": 250
+    },
+    {
+      "monstro": "h22",
+      "mensagem": "Você precisa escapar desta caverna, e para isso pode ter que passar por alguns monstros no caminho, para supera-los basta dizer a coisa certa.\n\n Eu posso aparecer para te guiar em alguns momentos, e a primeira frase para sua reflexão é:\n A pressa pode te prender onde a paciência te libertaria.\n\nBoa sorte!",
+      "x": 30,
+      "y": 450
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "monstros": [
+    {
+      "monstro": "m1",
+      "pergunta": "No React, qual hook permite adiar a execução de um efeito até que um valor específico mude, evitando cálculos desnecessários?",
+      "resposta": "useMemo",
+      "errorPenalty": 0.1,
+      "x": 272,
+      "y": 496
+    },
+    {
+      "monstro": "m2",
+      "pergunta": "No Node.js, qual módulo integrado permite a criação de servidores HTTP sem depender de bibliotecas externas?",
+      "resposta": "http",
+      "errorPenalty": 0.1,
+      "x": 240,
+      "y": 368
+    },
+    {
+      "monstro": "m3",
+      "pergunta": "No Power BI, qual função DAX é utilizada para calcular a média móvel ponderada de uma métrica ao longo de um período?",
+      "resposta": "AVERAGEX",
+      "errorPenalty": 0.1,
+      "x": 528,
+      "y": 272
+    },
+    {
+      "monstro": "m4",
+      "pergunta": "No Excel VBA, qual método do objeto Worksheet é utilizado para proteger uma planilha contra edições?",
+      "resposta": "Protect",
+      "errorPenalty": 0.1,
+      "x": 560,
+      "y": 512
+    },
+    {
+      "monstro": "m5",
+      "pergunta": "No Scrum, qual é a métrica utilizada para medir a previsibilidade e a confiabilidade do time, baseada na quantidade de trabalho concluído em cada Sprint?",
+      "resposta": "Velocidade",
+      "errorPenalty": 0.1,
+      "x": 688,
+      "y": 288
+    },
+    {
+      "monstro": "m6",
+      "pergunta": "No Agile, qual framework é voltado para escalabilidade e colaboração entre múltiplos times de desenvolvimento?",
+      "resposta": "SAFe",
+      "errorPenalty": 0.1,
+      "x": 544,
+      "y": 80
+    },
+    {
+      "monstro": "m7",
+      "pergunta": "No CSS, qual seletor deve ser usado para estilizar apenas os elementos ímpares dentro de um conjunto de irmãos, sem precisar especificar números fixos?",
+      "resposta": ":nth-child(odd)",
+      "errorPenalty": 0.1,
+      "x": 112,
+      "y": 192
+    },
+    {
+      "monstro": "m8",
+      "pergunta": "No Power BI, qual função DAX é usada para ativar uma relação inativa entre tabelas em um cálculo específico?",
+      "resposta": "USERELATIONSHIP",
+      "errorPenalty": 0.1,
+      "x": 112,
+      "y": 80
+    },
+    {
+      "monstro": "m9",
+      "pergunta": "Em arquitetura de software, qual padrão é frequentemente usado para lidar com comunicação assíncrona entre microsserviços?",
+      "resposta": "Event-driven",
+      "errorPenalty": 0.1,
+      "x": 160,
+      "y": 32
+    }
+  ]
+}
